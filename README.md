@@ -5,7 +5,7 @@ Superhero maintenance API
 Está habilitada la consola GUI de la BBDD H2. Datos de acceso: 
 * URL: http://localhost:8080/h2-console
 * JDBC URL: jdbc:h2:mem:superheroesDB
-* Usuario: admin</p>
+* Usuario: admin
 * Contraseña: admin
 
 ### Swagger
